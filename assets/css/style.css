@@ -1,3 +1,12 @@
-body {
-    font-family: Arial;
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Besley:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+ body {
+    font-family: besley, sans-serif;
+    font-weight: 300;
 }
